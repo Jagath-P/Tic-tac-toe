@@ -1,0 +1,23 @@
+button{
+   width: 4em;
+   height: 4em;
+   font-size: 2em; 
+
+}
+.restart{
+    width:4em;
+    height: 3em;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    
+}
